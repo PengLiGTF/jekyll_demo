@@ -1,6 +1,12 @@
 # jekyll_demo
-```java
+{% highlight java linenos %}
 public class Test{
 System.out.println();
 }
-```
+{% endhighlight %}
+
+{% highlight java linenos %}
+    public class Test2 {
+
+    }
+{% endhightlight %}
